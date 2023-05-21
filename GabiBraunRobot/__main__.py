@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [👩‍💼](https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg) `My name is` *Katakuri*
+`Hey There!` [👩‍💼](https://te.legra.ph/file/327f429dd381509bf23dc.jpg) `My name is` *Katakuri*
 `I am an Anime Themed group management bot.
 I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
@@ -92,7 +92,7 @@ InlineKeyboardButton(
 
 
 HELP_STRINGS = """
-`Hey there! My name is` [Katakuri]("https://telegra.ph/file/8cab4bb122cf76702b06d.jpg") 
+`Hey there! My name is` [Katakuri]("https://te.legra.ph/file/3a9fdc033335d94636ef6.jpg") 
 I'm a Pirate and help admins manage their groups with Some Powerful Devil Fruits! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
